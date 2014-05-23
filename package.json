@@ -34,7 +34,7 @@
     "grunt": "~0.4.2"
   },
   "keywords": [
-    "grunt",
+    "gruntplugin",
     "akamai",
     "rest",
     "purge"
