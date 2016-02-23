@@ -1,7 +1,7 @@
 {
   "name": "grunt-akamai-rest-purge",
   "description": "Purging Akamai via their Rest Interface",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/hereandnow/grunt-akamai-rest-purge",
   "author": {
     "name": "Bastian Behrens",
